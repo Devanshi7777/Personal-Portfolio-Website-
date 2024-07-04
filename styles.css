@@ -1,0 +1,253 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+*{
+    margin: 0 ;
+    padding: 0;
+
+}
+.sidebar{
+    position: absolute;
+    background-color: lavender;
+    width : 200px;
+    height: 100vh;
+    font-family: "Noto Serif", serif;
+    /* justify-content: center;
+    align-items: center;
+     */
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 10px;
+    /* padding: 10px; */
+    /* display: inline-block;  */
+    transition: tranform 0.3s ease-in ;
+    
+}
+.sidebar nav{
+    padding: 45px;
+    
+
+}
+.sidebar nav li{
+    list-style : none;
+    font-size: 20px;
+    padding: 20px 0;
+
+}
+/* .sidebar > * {
+    transform: translateX(-30px); 
+} */
+.sidebar nav li a{
+    text-decoration: none;
+    color: rgb(48, 11, 48);
+}
+.main{
+    background-color: lavenderblush;
+    width : 100vw;
+}
+.container{
+    min-height : 100vh;
+    display: flex;
+}
+.infoContainer{
+    /* background: pink; */
+    height : 58vb;
+    width : 80vw;
+    margin: 144px auto;
+    display : flex;
+    justify-content : space-around;
+}
+.devInfo{
+    font-size: 16px;
+    display : flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: "Source Code Pro", monospace;
+}
+.hello{
+    font-size : 1em;
+}
+.name{
+    font-size : 3em;
+    font-weight: bold;
+    font-family: "Noto Serif", serif;
+}
+.about{
+    font-size : 1em;
+}
+.aboutMe{
+    font-size : 1em;
+    font-family: "Noto Serif", serif;
+    margin-top: 14px;
+}
+.buttons{
+    margin-top: 34px;
+}
+.btn{
+    padding: 7px 12px;
+    border-radius: 22px;
+    color: rgb(92, 38, 75);
+    background-color: pink;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 0 3px;
+    cursor :pointer;
+
+    
+}
+.btn-sm{
+    font-size: 2em;
+    padding: 10px 19px;
+    margin : 12px 0;
+}
+.btn:hover{
+    background-color:rgb(92, 38, 75);
+    color: pink;
+}
+
+
+.devPic img{
+    /* width: 335px; */
+    height : 58vh;
+}
+.contactform{
+    padding: 0 34px;
+    /* padding-top: 50px; */
+    font-family: "Noto Serif", serif;
+    margin : 0 88px;
+}
+.contactform h2{
+    font-family: "Source Code Pro", monospace;
+    /* text-align: center; */
+    padding: 12px 0;
+
+}
+.contactform form div{
+    padding: 10px 0;
+    display : flex;
+    flex-direction: column;
+
+}
+.contactform form div input{
+    width: 26vw;
+    border-radius: 5px;
+    margin: 6px 0 0 0;
+    padding: 3px;
+}
+#emailHelp{
+    font-size: 11px;
+    color: midnightblue;
+    margin: 0 5px;
+    padding: 3px 0 0 0;
+
+}
+#form-check{
+    flex-direction : row;
+
+}
+#form-check input{
+    width: 24px;
+    margin: 3px 0;
+}
+.blogItem{
+    margin: 20px;
+    font-family: "Noto Serif", serif;
+
+}
+.blogcontainer{
+    margin: 10px 88px;
+}
+h1{
+    font-family: "Noto Serif", serif;
+
+}
+p{
+    font-family: "Source Code Pro", monospace;
+
+}
+.intro{
+    margin: 10px 88px;
+}
+.intro h2{
+    font-family: "Noto Serif", serif;
+    margin : 12px;
+
+}
+.intro p{
+    font-family: "Source Code Pro", monospace;
+    margin: 12px;
+
+}
+.skillcontainer{
+    padding: 12px;
+    
+}
+
+.skillItem{
+    display: flex;
+    font-family: "Source Code Pro", monospace;
+    /* align-items: center; */
+    font-weight: 500;
+}
+.educontainer{
+    padding: 12px;
+    
+}
+.eduItem{
+    display: flex;
+    font-family: "Source Code Pro", monospace;
+    /* align-items: center; */
+    font-weight: 500;
+
+}
+.skill{
+    
+    
+    
+    /* width: 265px;
+    height: 6px;
+    background-color: rgb(158, 45, 124); */
+    /* border: 2px solid black; */
+}
+.sidebarGo{
+    transform: translate(-443px , 0px);
+    position: absolute;
+}
+.hamburger{
+    position: absolute;
+    cursor : pointer;
+    top: 10px;
+    left: 10px;
+
+}
+.ham{
+    margin-top: 3px;
+
+}
+.cross{
+    margin-left: 170px;
+    margin-top: 4px;
+}
+@media (max-width: 1214px){
+    .devPic{
+        display: none;
+    }
+    /* .sidebar{
+        transform: translate(-443px , 0px);
+        position: absolute;
+    } */
+    .buttons{
+        font-size: 5px;
+    }
+    .intro, .blogcontainer, .contactform{
+        margin: 50px 8px;
+    }
+    .devInfo{
+        font-size: 10px;
+    }
+    
+}

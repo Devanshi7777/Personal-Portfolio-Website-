@@ -1,0 +1,38 @@
+DEVANSHI                                                                            Email: devanshi172003@gmail.com
+Linkedin: linkedin.com/in/devanshi-baliyan                                                    Mobile: +91-9557711540
+Github: Devanshi7777
+
+Education
+  INDIRA    GANDHI DELHI TECHNICAL UNIVERSITY                 FOR   WOMEN                               Delhi, India
+• Bachelor of Technology - Artificial Intelligence and Machine Learning; SGPA: 8.64                     2022 - 2026
+  M.G. Public School                                                             Uttar Pradesh(muzaffarnagar), India
+• Senior Secondary (CBSE); Percentage: 95.00                                                                  2021
+  M.G. Public School                                                             Uttar Pradesh(muzaffarnagar), India
+• Secondary (CBSE); Percentage: 94.40                                                                         2019
+
+Skills Summary
+• Languages:  Java, Python, C, HTML, CSS, JavaScript
+• Libraries & Platform:  Numpy, Pandas, Matplotlib, Github, VSCode
+                                                                   
+• Data Structures and Algorithm  Object Oriented Programming in java  Database Management System
+Experience
+• Six-Week Online Internship on “Web/ App Development &     Digital Marketing” - ANVESHAN      FOUNDATION, IGDTUW29’May’23 – 07’July’23
+       • Training: Acquired foundational knowledge of Languages like HTML,CSS,JavaScript , learnt about fundamentals of Web and
+         App development.
+       • Project: Developed a Personal Portfolio Website
+Projects
+• Personal portfolio website
+     ◦ Aimed at crafting an innovative and captivating online platform for a skilled person looking for opportunity or a job
+       
+       Using:HTML , CSS , JavaScript
+• Red wine quality- Exploratory Data Analysis
+                                                                                                   
+     ◦ Analysed a 12 variable Red wine dataset, and developed a linear model to forecast the results of test set data Using:R language
+
+Achievements
+• jee mains’22: Scored All India Rank-27816 out of approximately 10 lakh candidates
+
+Extra-Curricular
+• Mentor, Desh Ke Mentor:     Mentored 4 high school girls
+• Coordinator, training and Placement cell of IGDTUW
+• Member of the writing team    in SOCH(Station of Creativity and Hue) -The creative society of IGDTUW,
